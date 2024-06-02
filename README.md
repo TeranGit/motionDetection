@@ -3,6 +3,8 @@
 ## Overview
 Motion Detection OpenCV Python is a project developed using Python OpenCV for detecting motion in video frames. It's commonly used in CCTV cameras to detect any kind of movement in a video feed.
 
+![Image from video](img/demo.png)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Structure](#structure)
